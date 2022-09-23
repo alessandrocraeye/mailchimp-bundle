@@ -15,8 +15,8 @@
     ],
     "repositories": [
         {
-            "type": "vcs",
-            "url": "https://github.com/palpalani/mailchimp-api-v3"
+            "type": "git",
+            "url": "https://github.com/palpalani/mailchimp-api-v3.git"
         }
     ],
     "require": {
