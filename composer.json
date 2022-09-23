@@ -13,9 +13,15 @@
             "role": "Developer"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/palpalani/mailchimp-api-v3"
+        }
+    ],
     "require": {
         "php": "^7.1",
-        "pacely/mailchimp-apiv3": "~1.0",
+        "pacely/mailchimp-apiv3": "dev-patch-1",
         "mailmotor/mailmotor-bundle": "^3.0"
     },
     "autoload": {
